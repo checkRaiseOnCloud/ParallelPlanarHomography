@@ -3,6 +3,7 @@ Jiayu Bai, Xingsheng Wang
 
 ## Documents:
 The pdf version of the project proposal can be found [here](http://checkRaiseOnCloud.github.io/ParallelPlanarHomography/project_proposal.pdf)
+
 The checkpoint report can be found [here](http://checkRaiseOnCloud.github.io/ParallelPlanarHomography/15618Project_Midpoint_Report.pdf)
 
 ## Checkpoint:
