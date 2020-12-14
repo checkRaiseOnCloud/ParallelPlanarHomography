@@ -17,3 +17,6 @@ We achieve a final speedup of 45x with multiprocessing and CUDA acceleration.
 
 ## Example output:
 ![Example output](http://checkRaiseOnCloud.github.io/ParallelPlanarHomography/example_output.png)
+
+## Final Video:
+![final_video](http://checkRaiseOnCloud.github.io/ParallelPlanarHomography/ar.avi)
