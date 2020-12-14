@@ -8,6 +8,8 @@ The checkpoint report can be found [here](http://checkRaiseOnCloud.github.io/Par
 
 The final report can be found [here](http://checkRaiseOnCloud.github.io/ParallelPlanarHomography/15618FinalReport.pdf)
 
+Image for feature matching can be found [here](http://checkRaiseOnCloud.github.io/ParallelPlanarHomography/cv_cover.jpg)
+
 ## Checkpoint:
 At checkpoint, the parallelization is done on frame processing. There are a lot of frames in a video and using all the CPU threads, a portion of 
 the frames are processed by each thread and output as a video segement. The segments are combined later to generate the final output.
