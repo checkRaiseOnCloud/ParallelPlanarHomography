@@ -10,7 +10,7 @@ The final report can be found [here](http://checkRaiseOnCloud.github.io/Parallel
 
 Image for feature matching can be found [here](http://checkRaiseOnCloud.github.io/ParallelPlanarHomography/cv_cover.jpg)
 
-Source video files used are here: [1](https://youtu.be/K9sat26pMAw)[2](https://youtu.be/tLKyPBoIesA)
+Source video files used are here: [1](https://youtu.be/K9sat26pMAw), [2](https://youtu.be/tLKyPBoIesA)
 
 Final product for project is [here](http://checkRaiseOnCloud.github.io/ParallelPlanarHomography/ar.avi)
 
